@@ -1,0 +1,114 @@
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+c:\users\parallax\documents\visual studio 2010\Projects\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cagataymurat\Desktop\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\murat\Desktop\Okul\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojResolveAssemblyReference.cache
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+F:\Okul\Ver Dersler\Deneyler\Bilgisayar Grafikleri\Yüzey Doldurma\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.Cache
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojResolveAssemblyReference.cache
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+F:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.Cache
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojResolveAssemblyReference.cache
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.Cache
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+D:\Box Sync\Okul Dersler Lab\Grafik lab\Çağatay\Yüzey Doldurma - Kopya\Uygulamalar\SurfaceFilling2\SurfaceFilling2\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojAssemblyReference.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHam\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojAssemblyReference.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojAssemblyReference.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\grafik Lab Büt\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojAssemblyReference.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamBütSoru ve Cevap\SurfaceFillingHamBütSorusu\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csprojAssemblyReference.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz\Desktop\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.AssemblyReference.cache
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+C:\Users\osivaz61\Desktop\ktu ceng work\Lablar\grafikLab\YuzeyDoldurma\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.exe
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\bin\Debug\SurfaceFilling2.pdb
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.AssemblyReference.cache
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Form1.resources
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.Properties.Resources.resources
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.GenerateResource.cache
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.csproj.CoreCompileInputs.cache
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.exe
+E:\İndirilenlerHDD\SurfaceFillingHamSeedFill\SurfaceFilling2\obj\x86\Debug\SurfaceFilling2.pdb
